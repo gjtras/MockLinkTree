@@ -1,0 +1,4 @@
+export const CHANGENAME = 'CHANGENAME';
+export const ADDLINK = 'ADDLINK';
+export const REMOVELINK = 'REMOVELINK';
+export const CUSTOMIZEBACKGROUND = 'CUSTOMIZEBACKGROUND';

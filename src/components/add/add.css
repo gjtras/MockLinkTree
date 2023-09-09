@@ -1,0 +1,64 @@
+.customization button{
+    
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    height: 20px;
+}
+
+.DarkMode {
+    margin: 0;
+    padding: 0; 
+    height: 100vh;
+    background: linear-gradient(80deg, #bdc3c7 0%, #2c3e50 90%);
+}
+
+.PurpleLove{
+    margin: 0;
+    padding: 0; 
+    height: 100vh;
+    background: linear-gradient(80deg, #cc2b5e  0%, #753a88 90%);
+}
+
+.Ocean{
+    margin: 0;
+    padding: 0; 
+    height: 100vh;
+    background: linear-gradient(80deg, #2193b0 0%, #6dd5ed 90%);
+}
+
+.Dusk{
+    margin: 0;
+    padding: 0; 
+    height: 100vh;
+    background: linear-gradient(80deg, #ffd89b  0%, #19547b 90%);
+    color: white;
+    /* .button{
+        color: white;
+    } */
+   
+
+}
+
+/* .Royal{
+    margin: 0;
+    padding: 0; 
+    height: 100vh;
+    background: linear-gradient(80deg, #141e30   0%, #243b55 90%);
+    color: white;
+    button{
+        color: white;
+    }
+} */
+
+.Default{
+    margin: 0;
+    padding: 0; 
+    height: 100vh;
+}
